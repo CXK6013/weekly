@@ -1,0 +1,31 @@
+##  最近的一些思考方向
+
+- session cookie jwt?  token bytebytego  https://mail.qq.com/cgi-bin/frame_html?sid=tE9jJWFB1OpuWxBz&r=88e0f799ccbc9bfd8c023e09283d3500&lang=zh
+- 什么是CDN，它是如何工作的？  https://mail.qq.com/cgi-bin/frame_html?sid=tE9jJWFB1OpuWxBz&r=88e0f799ccbc9bfd8c023e09283d3500&lang=zh
+- 当年不懂《哈利·波特》？ https://havefun.zhubai.love/posts/2208547552817885184?push_source_id=2087499469439946752&push_source_type=email
+
+- 如何保持白天清醒，晚上又能轻松入睡？https://mcousdyt7h.feishu.cn/docx/Ia5Kd4IvWoGvAWxfZvlcPtqpnud?utm_campaign=%E9%9A%8F%E6%84%8F%E6%90%9C%E5%AF%BB&utm_medium=email&utm_source=Revue%20newsletter
+- 为了纯粹的快乐?  https://www.zhihu.com/collection/709094698
+
+- 最近悟出了什么道理?  https://www.zhihu.com/question/538335062/answer/2687386987
+- 日常炖肉，真的有必要把白沫子去掉吗？  https://www.zhihu.com/question/502865298/answer/2726530816
+
+## 技术线的方向
+
+- JavaFX  
+  - IDEA  对JavaFX的支持
+  - 由控件引出布局和布局容器 
+  - 最后是SceneBuilder
+  - 最后是开始一个项目 需求上线系统
+- 前端工程化的几个命题
+  - 什么是工程化
+  - 工程化意味着什么 受一定的约束
+  - 提出标准 形成共识
+- 由前端工程化到Java的模块化
+- Vue  
+  - 迈向单文件组件
+- CountDownLatch  发邮件询问自己的一些思考
+- 我们该如何建表？
+- Nginx与反向代理
+- ElasticSearch 与 Spring Boot  Starter 先起个头
+
